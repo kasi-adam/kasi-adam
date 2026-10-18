@@ -13,7 +13,7 @@ Computer Engineering student at **KNUST**, Ghana. I like building software that 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [WebAccessibilityAI](https://github.com/kasi-adam/WebAccessibilityAI) | Speech → LLM intent classification → browser automation → spoken output | Python, Groq API (Llama 3.1), Selenium, BeautifulSoup, SpeechRecognition, pyttsx3 |
+| [WebAccessibilityAI](https://github.com/kasi-adam/WebAccessibilityAI) | Voice assistant: speech → LLM intent classification → browser automation → spoken output, with session memory and error recovery | Python, Groq API (LLM), Selenium, BeautifulSoup, SpeechRecognition, pyttsx3 |
 | [inventory_dashboard](https://github.com/kasi-adam/inventory_dashboard) | IT asset inventory with server-side role-based access control, account lock-out, audit logging and Semgrep in CI | PHP, MySQL, JavaScript |
 | [100-days-of-code-python-](https://github.com/kasi-adam/100-days-of-code-python-) | Small Python command-line programs from my learning journey | Python |
 | [arduino-basic-electronics](https://github.com/kasi-adam/arduino-basic-electronics) | Reading capacitors, diodes, inductors and potentiometers with a microcontroller | C++ (Arduino / ESP32) |
